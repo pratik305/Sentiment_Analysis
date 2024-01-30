@@ -3,7 +3,7 @@ HOW TO RUN
 
 Step 1: Clone the repository
 
-git clone  
+git clone  https://github.com/pratik305/Sentiment_Analysis.git
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
 
