@@ -7,3 +7,5 @@ nltk
 xgboost
 streamlit
 flask
+pandas 
+streamlit
